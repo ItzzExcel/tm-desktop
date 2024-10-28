@@ -1,3 +1,6 @@
+# Project Archived
+TikTok Music is closing in November 28, 2024
+<hr>
 # tm-desktop | TikTok Music Desktop Client
 
 A desktop application designed to achieve compatibility with Linux devices.
